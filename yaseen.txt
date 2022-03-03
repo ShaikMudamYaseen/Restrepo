@@ -1,10 +1,2 @@
 yaseen
-<<<<<<< HEAD
 
-hrllo
-=======
-hel
-
-hello 1
-hello2
->>>>>>> yaseen
